@@ -12,27 +12,27 @@ to be updated here
 
 1. Fetch all menu
 ```
-GET https://host:port/api/menu/
+GET https://typescript-menu-api.herokuapp.com/api/menu/items
 ```
 
 2. Fetch menu by id
 ```
-GET https://host:port/api/menu/1
+GET https://typescript-menu-api.herokuapp.com/api/menu/items/1
 ```
 
 3. Create menu
 ```
-POST https://host:port/api/menu/
+POST https://typescript-menu-api.herokuapp.com/api/menu/items
 ```
 
 4. Edit menu
 ```
-PUT https://host:port/api/menu/1
+PUT https://typescript-menu-api.herokuapp.com/api/menu/items/1
 ```
 
 5. Remove certain menu
 ```
-DELETE https://host:port/api/menu/1
+DELETE https://typescript-menu-api.herokuapp.com/api/menu/items/1
 ```
 
 ## Install
